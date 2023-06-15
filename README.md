@@ -1,4 +1,5 @@
-# The oroject original file is attached above. File name: ""
+# The oroject original file is attached above. File name: "MySolutionsQueryForAll.sql"
+# About The Project:
 The objective of this project is to analyze inventory and sales data in order to provide stakeholders with insights into the business's performance and to monitor inventory levels. I have included the original MySQL code and a photo of the database schema that I used for this project.
 
 # Database Schema:
